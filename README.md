@@ -41,7 +41,7 @@ cd guess-my-number-dom-project
 1. **Start the Game**: The game begins with a secret number already generated
 2. **Make Your Guess**: Enter a number between 1 and 20 in the input field
 3. **Check Your Answer**: Click the "Check!" button to submit your guess
-4. **Receive Feedback**: 
+4. **Receive Feedback**:
    - "Too High!" - Your guess is above the secret number
    - "Too Low!" - Your guess is below the secret number
    - "Correct Number!" - You've won!
@@ -91,6 +91,7 @@ guess-my-number-dom-project/
 ### Code Style
 
 The project uses Prettier for code formatting with the following configuration:
+
 - Single quotes for strings
 - Arrow functions without parentheses for single parameters
 
@@ -117,10 +118,6 @@ This is a learning project, but contributions are welcome! Feel free to:
 - Suggest new features
 - Improve the code structure
 - Enhance the user interface
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🎓 Learning Objectives
 
